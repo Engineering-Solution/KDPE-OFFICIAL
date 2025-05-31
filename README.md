@@ -1,5 +1,3 @@
-# KDPE-OFFICIAL
-Official website of Krishi Dairy Project Engineering Pvt. Ltd. — providing turnkey solutions for milk, food, water, and pharma industries.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,6 +30,7 @@ Official website of Krishi Dairy Project Engineering Pvt. Ltd. — providing tur
       display: flex;
       justify-content: center;
       padding: 10px 0;
+      flex-wrap: wrap;
     }
     nav a {
       color: white;
